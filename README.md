@@ -1,11 +1,11 @@
 # Resolvit test for the technical interview.
-Technical interview exersice for Resolvit
+Technical interview exercise for Resolvit
 
 ## How to install
 This was created and tested using NodeJS 9.4.0 and the libraries was installed using
-NPM 5.6.0, you have to make sure your node and NPM versions are compatible.
+NPM 5.6.0, you have to make sure your NodeJS and NPM versions are compatible.
 
-Step by step to run the main script:
+Step by step:
 - npm install
 - npm test #This is optional
 - npm start
